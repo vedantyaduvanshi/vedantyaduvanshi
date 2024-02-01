@@ -14,6 +14,11 @@ As a seasoned web developer proficient in the MERN stack and adept in languages 
 * 🤝  I'm open to collaborating on Web dev .
 * ⚡  What mines always comes back to me no matter what.
 
+
+  <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Vartika511" />
+ </p></h2>
+
 <a href="https://www.github.com/vedantyaduvanshi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vedantyaduvanshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Vedant__Y" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Vedant__Y?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
