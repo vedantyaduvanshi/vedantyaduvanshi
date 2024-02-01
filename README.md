@@ -15,8 +15,8 @@ As a seasoned web developer proficient in the MERN stack and adept in languages 
 * ⚡  What mines always comes back to me no matter what.
 
 
-  <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> 
-  <img src="https://badges.pufler.dev/commits/monthly/Vartika511" />
+  <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=vedantyaduvanshi&label=Profile%20views&color=6805D3&style=flat" alt="Vedant Yaduvanshi" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/vedantyaduvanshi" />
  </p></h2>
 
 <a href="https://www.github.com/vedantyaduvanshi" target="_blank" rel="noreferrer"><img
