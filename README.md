@@ -12,7 +12,7 @@ As a seasoned web developer proficient in the MERN stack and adept in languages 
 * 🚀  I'm currently working on [KitPat (Social Media for Devlopers)](http://kitpat.io)
 * 🧠  I'm learning GO framework for handling huge data .
 * 🤝  I'm open to collaborating on Web dev .
-* ⚡  What mines always comes back to me no matter what.
+* ⚡  What is mine always comes back to me, no matter what.
 
 
   <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=vedantyaduvanshi&label=Profile%20views&color=6805D3&style=flat" alt="Vedant Yaduvanshi" /> 
