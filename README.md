@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Crafting Flawless Web Experiences (⌐■\_■)
 -----------------------------------------
 
-As a seasoned web developer proficient in the MERN stack and adept in languages like Go, Rust, and C++, I thrive on crafting immersive digital experiences. Beyond web development, my creative journey extends into Blender, 3D animation, and graphic design. Intrigued by the intersection of technology and creativity, I've ventured into game development using Unreal Engine 5. Passionate about pushing boundaries, I merge technical prowess with artistic flair to deliver impactful solutions.
+As a seasoned web developer proficient in the MERN stack and adept in languages like Go, Rust, and C++, I thrive on crafting immersive digital experiences. Beyond web development, my creative journey extends into Blender, 3D animation, and graphic design. Intrigued by the intersection of technology and creativity, I've ventured into game development using Unreal Engine 5.
+In addition to my development expertise, I am deeply involved in cybersecurity. I have obtained the Certified Ethical Hacker (CEH) certification from EC-Council and conquered the Offensive Security Certified Professional (OSCP) certification from Offsec Security. I assist companies and organizations with their cybersecurity needs, ensuring robust protection against digital threats.
 
 * 🌍  I'm based in Jaipur , 🇮🇳
 * 🖥️  See my portfolio at [2019 Portfolio.](http://vedant-yaduvanshi.vercel.app/)
 * ✉️  You can contact me at [vedantyaduvanshi@gmail.com](mailto:vedantyaduvanshi@gmail.com)
-* 🚀  I'm currently working on [KitPat (Social Media for Devlopers)](http://kitpat.io)
+* 🚀 Founder Kitpat.io THE BEST OSINT WEBSITE FOR FINDING DATA AMONG LEAKS(http://kitpat.io)
 * 🧠  I'm learning GO framework for handling huge data .
 * 🤝  I'm open to collaborating on Web dev .
 * ⚡  What is mine always comes back to me, no matter what.
