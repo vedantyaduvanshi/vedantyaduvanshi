@@ -1,6 +1,7 @@
-![giphy](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/7ad1ec0f-4d79-4a47-b95e-fe275fc30918)
+![giphy (1)](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/91c33e72-e1a5-48d6-a46b-68a5ebba94a5)
 
-Hi! My name is Vedant Yaduvanshi
+Hello There .
+My name is Vedant Yaduvanshi
 =========================================================================================================================================
 
 Crafting Flawless Web Experiences (⌐■\_■)
