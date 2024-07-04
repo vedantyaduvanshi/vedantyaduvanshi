@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TFINQhNNBhM58cckE9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YOUNetflix-you-netflix-younetflix-TFINQhNNBhM58cckE9">via GIPHY</a></p>
-
+![giphy](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/7ad1ec0f-4d79-4a47-b95e-fe275fc30918)
 
 Hi! My name is Vedant Yaduvanshi
 =========================================================================================================================================
