@@ -1,4 +1,5 @@
-![giphy (1)](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/91c33e72-e1a5-48d6-a46b-68a5ebba94a5)
+![tenor](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/b24941bd-e36a-468e-bb17-5279abc4413d)
+
 
 Hello There .
 My name is Vedant Yaduvanshi
