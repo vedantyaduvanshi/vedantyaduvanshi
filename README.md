@@ -8,8 +8,8 @@ My name is Vedant Yaduvanshi
 Crafting Flawless Web Experiences (⌐■\_■)
 -----------------------------------------
 
-As a seasoned web developer proficient in the MERN stack and adept in languages like Go, Rust, and C++, I thrive on crafting immersive digital experiences. Beyond web development, my creative journey extends into Blender, 3D animation, and graphic design. Intrigued by the intersection of technology and creativity, I've ventured into game development using Unreal Engine 5.
-In addition to my development expertise, I am deeply involved in cybersecurity. I have obtained the Certified Ethical Hacker (CEH) certification from EC-Council and conquered the Offensive Security Certified Professional (OSCP) certification from Offsec Security. I assist companies and organizations with their cybersecurity needs, ensuring robust protection against digital threats.
+As a seasoned web developer proficient in the MERN stack and adept in languages like Go, Rust, and C++, I thrive on crafting immersive digital experiences.
+In addition to this, I am deeply involved in cybersecurity. I have obtained the Certified Ethical Hacker (CEH) certification from EC-Council and conquered the Offensive Security Certified Professional (OSCP) certification from Offsec Security. I assist companies and organizations with their cybersecurity needs, ensuring robust protection against digital threats.
 
 * 🌍  I'm based in Jaipur , 🇮🇳
 * 🖥️  See my portfolio at [2019 Portfolio.](http://vedant-yaduvanshi.vercel.app/)
