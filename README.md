@@ -9,7 +9,7 @@ Crafting Flawless Web Experiences (⌐■\_■)
 -----------------------------------------
 
 As a seasoned web developer proficient in the MERN stack and adept in languages like Go, Rust, and C++, I thrive on crafting immersive digital experiences.
-In addition to this, I am deeply involved in cybersecurity. I have obtained the Certified Ethical Hacker (CEH) certification from EC-Council and conquered the Offensive Security Certified Professional (OSCP) certification from Offsec Security. I assist companies and organizations with their cybersecurity needs, ensuring robust protection against digital threats.
+In addition to this, I am deeply involved in cybersecurity. I have obtained the 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 (CEH) certification from EC-Council and conquered the 𝗢𝗳𝗳𝗲𝗻𝘀𝗶𝘃𝗲 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 (OSCP) certification from Offsec Security. I assist companies and organizations with their cybersecurity needs, ensuring robust protection against digital threats.
 
 * 🌍  I'm based in Jaipur , 🇮🇳
 * 🖥️  See my portfolio at [2019 Portfolio.](http://vedant-yaduvanshi.vercel.app/)
