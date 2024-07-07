@@ -1,7 +1,7 @@
 ![tenor](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/b24941bd-e36a-468e-bb17-5279abc4413d)
 
 
-Hello .
+Hello 👋 .
 My name is Vedant Yaduvanshi
 =========================================================================================================================================
 
