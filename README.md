@@ -2,9 +2,8 @@
 
 
 
-Rabbit much fun, rabbit much cheer,
-With their love, they hold you near.
-=========================================================================================================================================
+Rabbits hopping, tails so bright,
+Fun and smart, pure delight.
 
 Crafting Flawless Web Experiences (⌐■\_■)
 -----------------------------------------
