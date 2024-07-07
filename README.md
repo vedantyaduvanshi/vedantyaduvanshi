@@ -1,8 +1,9 @@
-![tenor](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/b24941bd-e36a-468e-bb17-5279abc4413d)
+![giphy (2)](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/65fb5332-3cc4-4300-aad6-002bedb8dcce)
 
 
-Hello 👋 .
-My name is Vedant Yaduvanshi
+
+Rabbit much fun, rabbit much cheer,
+With their love, they hold you near.
 =========================================================================================================================================
 
 Crafting Flawless Web Experiences (⌐■\_■)
