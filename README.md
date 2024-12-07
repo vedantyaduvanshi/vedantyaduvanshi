@@ -1,9 +1,4 @@
-![giphy (2)](https://github.com/vedantyaduvanshi/vedantyaduvanshi/assets/87130565/65fb5332-3cc4-4300-aad6-002bedb8dcce)
 
-
-
-Rabbits hopping, tails so bright,
-Fun and smart, pure delight.
 
 Crafting Flawless Web Experiences (⌐■\_■)
 -----------------------------------------
