@@ -1,7 +1,0 @@
-name: Example
-uses: yonasuriv/htb-metrics@latest
-with:
-  filename: htb-metrics.classic.png
-  token: ${{ secrets.HTB_METRICS_TOKEN }}
-  userid: 2170485
-  template: default
