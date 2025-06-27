@@ -1,0 +1,166 @@
+:root {
+    font-family: neue-haas-unica, sans-serif !important;
+    /* Colors */
+    --red1: red;
+    --red2: #f53d3d;
+    --red3: rgba(255, 37, 72, 0.1);
+    --blue1: #3498db;
+    --blue2: #56C0E0 ;
+    --green1: #2ecc71;
+    --green2: #9cef00;
+    --green3: #9acc14;
+    --orange1: #f7af3e ;
+    --grey1: #a4b1cd;
+    --white1: #ffffff;
+    --black1: #000000; 
+}
+
+.badge {
+    min-width: 814px;
+    min-height: 270px;
+    width: 814px;
+    padding: 20px;
+    height: auto;
+    background-color: #111927;
+    border-radius: 28px;
+    text-align: left;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content from the top */
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.header-avatar {
+    width: 178px;
+    height: 178px;
+    margin-right: 25px;
+    border-radius: 50%;
+    border: 5px dashed var(--green2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 5px;
+}
+
+.header-avatar img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    /* Make the image circular */
+}
+
+.header-info{
+    display: inline;
+    align-items: center;
+    /* margin-bottom: 10px; */
+}
+
+.user_rank {
+    color: var(--green3);
+    font-size: 48px;
+    line-height: 52px;
+}
+
+.header-font {
+
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: bold;
+    padding-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    line-height: 12px;
+    text-align: left;
+}
+
+.data-font {
+
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 0px;
+    padding-left: 45px;
+}
+
+.data-font p {
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+  }
+
+.footer-container {
+    display: flex;
+    font-size: 18px;
+    line-height: 28px;
+    padding-left: 3px;
+    padding-top: 12px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 0px;
+}
+
+.footer-font {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 34px; 
+    color: var(--grey1);
+    margin-top: 2px;
+    padding-left: 10px;
+    line-height: 34px;
+}
+
+.panel-classic {
+    color: var(--grey1);
+    font-size: 42px;
+}
+
+.panel-default {
+    padding-left: 45px;
+}
+
+.icon img {
+    width: 37px;  
+    height: 37px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: px;
+}
+
+.footer-link {
+    color: var(--green3);
+    font-size: 0.6em;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: var(--green3);
+    font-size: 0.6em;
+    text-decoration: underline;
+}
+
+.footer-link:visited {
+    color: var(--green3);
+}
+
+.htb_logo {
+    height: 20%;
+    width: 22%;
+    margin-top: 2px;
+    margin-left: 25px;
+    padding-bottom: 0px;
+}
+
+.display {
+    visibility: visible;
+}
+
+.hidden {
+    visibility: hidden;
+}
