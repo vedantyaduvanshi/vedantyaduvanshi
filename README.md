@@ -24,31 +24,6 @@
 
 ---
 
-## 🧰 Arsenal
-
-*Recon / OSINT*
-<p>
-  <img src="https://img.shields.io/badge/Maltego-142F43?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/theHarvester-2C3E50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Recon--ng-1B1B1B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Shodan-D32027?style=for-the-badge&logo=shodan&logoColor=white">
-</p>
-
-*Offense*
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-</p>
-
-*Environment &amp; Code*
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,js,nodejs,mongodb,git,docker" alt="stack">
-</p>
-
----
-
 ## 🚩 Featured Project — KitPat.io
 
 > An *OSINT platform* that searches worldwide breach databases to reveal a person's exposed digital footprint — from an email, phone number, IP, or name — while keeping the searcher anonymous (no logs, crypto top-ups, anonymous account-number login).
