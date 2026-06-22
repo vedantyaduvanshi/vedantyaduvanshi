@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OSCP-A80000?style=for-the-badge&logoColor=white" alt="OSCP">
   <img src="https://img.shields.io/badge/OSEP-A80000?style=for-the-badge&logoColor=white" alt="OSEP">
-  <img src="https://img.shields.io/badge/SEH-1F1F1F?style=for-the-badge&logoColor=white" alt="CEH">
+  <img src="https://img.shields.io/badge/CEH-1F1F1F?style=for-the-badge&logoColor=white" alt="CEH">
 </p>
 
 <!-- ============ HACK THE BOX ============ -->
