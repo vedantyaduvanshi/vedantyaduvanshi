@@ -1,5 +1,11 @@
-![1500x500](https://github.com/user-attachments/assets/9e305790-4a0c-4fad-85a4-bd69d3187043)
-<p align="center"> 
-  <img src="https://www.hackthebox.com/badge/image/2170485" alt="HTB Badge" width="200" style="background-color: #0f0f0f; padding: 10px; border-radius: 10px;"> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e305790-4a0c-4fad-85a4-bd69d3187043" alt="Banner" width="1500">
 </p>
-<p align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/vedantyaduvanshi)</p>
+
+<p align="center">  
+  <img src="https://www.hackthebox.com/badge/image/2170485" alt="HTB Badge" width="200" style="background-color: #0f0f0f; padding: 10px; border-radius: 10px;">  
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vedantyaduvanshi" alt="LeetCode Stats">
+</p>
