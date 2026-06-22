@@ -24,23 +24,6 @@
 
 ---
 
-## 🕵️ whoami
-
-bash
-$ whoami
-Vedant Yaduvanshi  (Unfair_Rabbit)
-
-$ cat ~/.profile
-ROLE     = Offensive Security / Penetration Testing
-FOCUS    = OSINT · OPSEC · Footprinting · Recon
-CERTS    = OSCP · OSEP · SEH
-MINDSET  = "Reveal the unseen. Stay invisible."
-
-
-I dig into what the internet quietly leaks — and I build the tooling to surface it. Specialised in *open-source intelligence (OSINT)* and *operational security (OPSEC)*, working end-to-end from recon to exploitation.
-
----
-
 ## 🧰 Arsenal
 
 *Recon / OSINT*
