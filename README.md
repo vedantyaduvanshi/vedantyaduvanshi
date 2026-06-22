@@ -2,5 +2,4 @@
 <p align="center"> 
   <img src="https://www.hackthebox.com/badge/image/2170485" alt="HTB Badge" width="200" style="background-color: #0f0f0f; padding: 10px; border-radius: 10px;"> 
 </p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vedantyaduvanshi)
+<p align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/vedantyaduvanshi)</p>
