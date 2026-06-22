@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Vedant Yaduvanshi</h1>
-<h3 align="center">Offensive Security • OSINT &amp; OPSEC Specialist • <code>aka Unfair_Rabbit</code></h3>
+<h3 align="center">Offensive Security • OSINT &amp; OPSEC • <code>aka Unfair_Rabbit</code></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF6A&center=true&vCenter=true&width=620&lines=Penetration+Tester+%7C+Red+Teamer;OSINT+%26+OPSEC+Specialist;Reveal+the+unseen.+Stay+invisible." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF6A&center=true&vCenter=true&width=620&lines=Penetration+Tester+%7C+Red+Teamer;OSINT+%26+OPSEC;Reveal+the+unseen.+Stay+invisible." alt="typing">
 </p>
 
 <!-- ============ CERTS ============ -->
@@ -24,9 +24,9 @@
 
 ---
 
-## 🚩 Featured Project — KitPat.io
+## 🚩 Featured Project | KitPat.io
 
-> An *OSINT platform* that searches worldwide breach databases to reveal a person's exposed digital footprint — from an email, phone number, IP, or name — while keeping the searcher anonymous (no logs, crypto top-ups, anonymous account-number login).
+> An *OSINT platform* that searches worldwide breach databases to reveal a person's exposed digital footprint from an email, phone number, IP, or name — while keeping the searcher anonymous (no logs, crypto top-ups, anonymous account-number login).
 
 osint · footprinting · investigation · research
 
