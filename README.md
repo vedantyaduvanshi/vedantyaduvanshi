@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vedantyaduvanshi)
+  <img src="https://leetcard.jacoblin.cool/Vedantyaduvanshi" alt="LeetCode Stats">
 </p>
 ---
 
